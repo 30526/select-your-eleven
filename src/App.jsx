@@ -5,6 +5,7 @@ import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
 import HeroSection from './components/HeroSection/HeroSection';
 import BodySection from './components/BodySection/BodySection';
+import Footer from './components/Footer/Footer';
 
 const fetchPlayers = async () => {
   const res = await fetch('/players.json')
@@ -51,6 +52,7 @@ const App = () => {
           setToggle={setToggle}></SelectedPlayers>
       }
       <BodySection></BodySection>
+      <Footer></Footer>
       <ToastContainer />
 
     </>
