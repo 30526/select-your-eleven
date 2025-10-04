@@ -1,3 +1,4 @@
+import { toast } from 'react-toastify';
 import dltImg from '../../assets/Vector.png'
 
 const SelectedPlayers = ({ purchasePlayers, setPurchasePlayers,
@@ -7,6 +8,7 @@ const SelectedPlayers = ({ purchasePlayers, setPurchasePlayers,
         const remainingPlayer = purchasePlayers.filter(players => players !== player)
         setPurchasePlayers(remainingPlayer)
         setAvailableBalance(availableBalance + player.price)
+        toast('Player Deleted!')
 
 
 

@@ -1,4 +1,5 @@
 import React, { Suspense, useState } from 'react';
+import { ToastContainer } from 'react-toastify';
 import Navbar from './components/Navbar/Navbar';
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
@@ -20,7 +21,7 @@ const App = () => {
       <HeroSection></HeroSection>
       <div className='flex justify-between items-center mt-20 mb-5  max-w-[1200px] mx-auto
       px-4 md:px-0'>
-        <h2 className='font-bold ml-2 text-3xl'>{toggle ? "Available Players" : `Selected Players (${purchasePlayers.length}/11)`}</h2>
+        <h2 className='font-bold ml-2 text-3xl'>{toggle ? "Available Players" : `Selected Players (${purchasePlayers.length}/6)`}</h2>
         <div className='flex'>
           <button onClick={() => setToggle(true)}
             className={`btn border-r-0 rounded-l-xl rounded-r-none 
@@ -48,7 +49,7 @@ const App = () => {
           setPurchasePlayers={setPurchasePlayers}
           setToggle={setToggle}></SelectedPlayers>
       }
-
+      <ToastContainer />
 
     </>
   );
