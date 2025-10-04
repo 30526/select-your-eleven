@@ -3,7 +3,7 @@ import heroImg from '../../assets/banner-main.png'
 import './hero.css'
 const HeroSection = () => {
     return (
-        <div className='px-4'>
+        <div className=' px-4'>
             <div className='bg-img max-w-[1200px] mx-auto text-center
          bg-[#131313] py-15  rounded-4xl mt-10' >
                 <img className='mx-auto' src={heroImg} alt="" />

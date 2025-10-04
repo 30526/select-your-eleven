@@ -1,0 +1,11 @@
+.bg-body {
+    background-image: url(/src/assets/bg-shadow.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-button {
+    background-image: url(/src/assets/Frame-11.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

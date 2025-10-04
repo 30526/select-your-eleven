@@ -4,6 +4,7 @@ import Navbar from './components/Navbar/Navbar';
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
 import HeroSection from './components/HeroSection/HeroSection';
+import BodySection from './components/BodySection/BodySection';
 
 const fetchPlayers = async () => {
   const res = await fetch('/players.json')
@@ -49,6 +50,7 @@ const App = () => {
           setPurchasePlayers={setPurchasePlayers}
           setToggle={setToggle}></SelectedPlayers>
       }
+      <BodySection></BodySection>
       <ToastContainer />
 
     </>
