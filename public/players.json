@@ -1,0 +1,122 @@
+[
+    {
+        "player_name": "Mahmudullah Riyad",
+        "country": "Bangladesh",
+        "playing_role": "All-rounder",
+        "rating": 88,
+        "batting_position": 6,
+        "batting_style": "Right-handed",
+        "price": 88000,
+        "image_url": "https://i.ibb.co.com/Y45Ckphk/1-1663151850.jpg"
+    },
+    {
+        "player_name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "playing_role": "Opening Batter",
+        "rating": 88,
+        "batting_position": 1,
+        "batting_style": "Left-handed",
+        "price": 85000,
+        "image_url": "https://i.ibb.co.com/tMs1SwHv/The-BCB-suggested-waiting-to-see-the-end-of-Tamim-issue.jpg"
+    },
+    {
+        "player_name": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "playing_role": "Wicketkeeper Batter",
+        "rating": 86,
+        "batting_position": 5,
+        "batting_style": "Right-handed",
+        "price": 82000,
+        "image_url": "https://i.ibb.co.com/SXc3rv66/1590509033-8.jpg"
+    },
+    {
+        "player_name": "Litton Das",
+        "country": "Bangladesh",
+        "playing_role": "Top-order Batter",
+        "rating": 85,
+        "batting_position": 3,
+        "batting_style": "Right-handed",
+        "price": 78000,
+        "image_url": "https://i.ibb.co.com/TMKw23JR/Liton-Das-howstat-scaled-e1696873169705.jpg"
+    },
+    {
+        "player_name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "playing_role": "Fast Bowler",
+        "rating": 90,
+        "batting_position": 10,
+        "batting_style": "Left-handed",
+        "price": 91000,
+        "image_url": "https://i.ibb.co.com/1Brbh2C/ob-1748190947.jpg"
+    },
+    {
+        "player_name": "Taskin Ahmed",
+        "country": "Bangladesh",
+        "playing_role": "Fast Bowler",
+        "rating": 84,
+        "batting_position": 9,
+        "batting_style": "Right-handed",
+        "price": 75000,
+        "image_url": "https://i.ibb.co.com/NdcMFQw8/Taskin-will-recover-without-surgery.jpg"
+    },
+    {
+        "player_name": "Andre Russell",
+        "country": "West Indies",
+        "playing_role": "All-rounder",
+        "rating": 95,
+        "batting_position": 6,
+        "batting_style": "Right-handed",
+        "price": 120000,
+        "image_url": "https://i.ibb.co.com/RkSgncfC/download.jpg"
+    },
+    {
+        "player_name": "David Miller",
+        "country": "South Africa",
+        "playing_role": "Middle-order Batter",
+        "rating": 89,
+        "batting_position": 5,
+        "batting_style": "Left-handed",
+        "price": 105000,
+        "image_url": "https://i.ibb.co.com/RGVfg0q6/David-Miller-Wife-Wiki-Age-Daughter-Parents-Latest-News.jpg"
+    },
+    {
+        "player_name": "Rahmanullah Gurbaz",
+        "country": "Afghanistan",
+        "playing_role": "Wicketkeeper Batter",
+        "rating": 83,
+        "batting_position": 2,
+        "batting_style": "Right-handed",
+        "price": 70000,
+        "image_url": "https://i.ibb.co.com/27FLMPYv/Rahmanullah-Gurbaz-Wins-Hearts-With-Sweet-Gesture-For-Needy-People-On-Diwali-Daily-Sports.jpg"
+    },
+    {
+        "player_name": "Imad Wasim",
+        "country": "Pakistan",
+        "playing_role": "All-rounder",
+        "rating": 82,
+        "batting_position": 7,
+        "batting_style": "Left-handed",
+        "price": 68000,
+        "image_url": "https://i.ibb.co.com/7dV8DL2K/Imad-Wasim-opens-up-about-captaincy-and-World-Cup-aspirations.jpg"
+    },
+    {
+        "player_name": "Alex Hales",
+        "country": "England",
+        "playing_role": "Opening Batter",
+        "rating": 87,
+        "batting_position": 1,
+        "batting_style": "Right-handed",
+        "price": 98000,
+        "image_url": "https://i.ibb.co.com/238fRffc/Phil-Salt-Lost-For-Words-After-His-Own-Record-Breaking-Night-Against-South-Africa.jpg"
+    },
+    {
+        "player_name": "Sunil Narine",
+        "country": "West Indies",
+        "playing_role": "All-rounder (Spinner)",
+        "rating": 91,
+        "batting_position": 8,
+        "batting_style": "Left-handed",
+        "price": 102000,
+        "image_url": "https://i.ibb.co.com/dYTFpQ8/Sunil-Narine-IPL.jpg"
+    }
+]
